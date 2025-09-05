@@ -2,6 +2,14 @@
 This project is just me messing around with **HTML5 Canvas** to see what kind of trippy patterns I could come up with.
 It turned into a whole "flow field", basically a bunch of tiny vectors dancing all around based on some mathy rules.
 
+## Preview
+Here's what it looks like: 
+<p align="center">
+  <img src="https://github.com/21vedansh/Chaos-Vectors/blob/main/assets/preview2.png" width="800">
+</p>
+
+
+
 ## What's going on here?
 At its heart, the thing is quite simple
 1. Imagine the screen as a giant grid, divided into small cells.
